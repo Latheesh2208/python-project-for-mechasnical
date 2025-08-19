@@ -1,1 +1,7 @@
-# python-project-for-mechasnical
+# python-project-for-mechanical
+
+
+
+
+
+
